@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- matches SND_DEVICE name in platform.h -->
+<audio_platform_info>
+    <device name="dmic-endfire" acdb_id="118" />
+    <device name="speaker-dmic-endfire" acdb_id="11" />
+    <device name="voice-dmic-ef" acdb_id="118" />
+    <device name="voice-speaker-dmic-ef" acdb_id="11" />
+    <device name="voice-rec-dmic-ef" acdb_id="118" />
+    <device name="voice-rec-dmic-ef-fluence" acdb_id="118" />
+    <device name="handset-stereo-dmic-ef" acdb_id="118" />
+    <device name="speaker-stereo-dmic-ef" acdb_id="11" />
+</audio_platform_info>
